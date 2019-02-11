@@ -1,4 +1,9 @@
 {
+  "getpro": [
+    { "id": 1, "name": "奔驰" },
+    { "id": 2, "name": "宝马" },
+    { "id": 3, "name": "迈凯伦" }
+  ],
   "posts": [
     { "id": 1, "title": "hahaha 1" },
     { "id": 2, "title": "hehehe 2" },
